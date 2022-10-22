@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @LavaSpike
+- 👀 I’m interested in Programming and automation.
+- 🌱 I’m currently learning Python.
+- 📫 How to reach me spetchyt@gmail.com
